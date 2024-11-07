@@ -1,0 +1,17 @@
+body{
+	color: brown;
+   background-color: Aqua;
+   font-family: Arial;
+}
+h1{
+	text-align: center;
+   	color: blueviolet;
+}
+
+p{
+	text-align: left;
+}           
+
+h2{
+	color: greenyellow;
+}    

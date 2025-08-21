@@ -1,0 +1,33 @@
+body{
+    margin: 0; 
+   
+}
+.top-bar{
+ 	background-color: greenyellow;	
+    color: white;
+    font-size: 14px;
+}
+.social-icons img{
+    width: 20px;
+    border-left: 1px solid white;
+    padding: 20px 20px;
+}
+.top-bar-left{
+    display: flex;
+    
+}
+ .container{
+    display: flex;
+    justify-content: space-between;
+ }
+.top-bar-left p{
+    margin: 0 ;
+    padding: 20px 20px;
+    border-left: 1px solid white;
+}
+.top-bar-left p:last-child{
+    border-right: 1px solid white;
+}
+.social-icons img:last-child{
+    border-right: 1px solid white;
+}
